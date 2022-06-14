@@ -1,10 +1,10 @@
 AUTHOR: RDS (F1)
 
-This project is to create "顾衡好书榜" to different ebook:
+1. This project is to create "顾衡好书榜" in different ebook format:
 - epub
 - pdf
 
-One can run 
+2. One can run 
 - ./convert.s
 - ./convert.s 顾衡好书榜
 - ./convert.s 社会
